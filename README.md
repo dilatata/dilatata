@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![rounded](https://capsule-render.vercel.app/api?type=rounded&color=timeAuto&text=Dilatata&fontAlignY=50&fontSize=40&height=200)
+
 
 ![dilatata's github stats](https://github-readme-stats.vercel.app/api?username=dilatata&show_icons=true)
 [![dilatata's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dilatata&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/dilatata-creator)
