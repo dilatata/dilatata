@@ -12,10 +12,17 @@
 
 </div>
 
-### 데싸 입니다.
-- 데이터 사이언티스트 in ABC Corp.
-- I organize a group of developers who write blog posts
 
+
+<h3 align='center'>:white_heart:Tech Stack:blue_heart:</h3>
+<p><p align='center'>
+ I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp; <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> now!</p>
+
+<h3 align='center'> 데이터 사이언티스트를 목표로 공부중입니다.</h3>
+<h3 align='center'> :e-mail:  If you wanna send e-mail to me, <img src="https://img.shields.io/badge/dilatata96@gmail.com-F50057?style=flat-square&logo=?&logoColor=white"/></a>  :e-mail:</p>
+
+
+<!--
 ### Interest
 - Google Cloud Platform(Especially, BigQuery)
 - Leadership, Mentoring, Writing, Presentation
@@ -30,14 +37,16 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:kimtaeyou0923@gmail.com)
 </div>
 
-
+-->
 ## **Keywords about ME**
 
-####  #Data #Passion #KPMG #Lighthouse #Data Science #ML/DL #Modeler
+####  #Data #Passion #Data Science #Studying
+
+<!--
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://shoman2.github.io/)](https://shoman2.github.io/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-you-kim-5204184b/)](https://www.linkedin.com/in/tae-you-kim-5204184b/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tae.y.kim.56)](https://www.facebook.com/tae.y.kim.56) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaeyou0923@gmail.com)](mailto:kimtaeyou0923@gmail.com)
 	
-
+-->
 
 
 
