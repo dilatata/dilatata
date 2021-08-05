@@ -16,7 +16,19 @@
 
 <h3 align='center'>:white_heart:Tech Stack:blue_heart:</h3>
 <p><p align='center'>
- I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp; <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> now!</p>
+ I'm studying 
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
+ <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a><br>
+ <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/BeatifulSoup-59666C?style=flat-square&logo=&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/MySQL DB-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
+ <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a> &nbsp;these days!</p>
 
 <h3 align='center'> 데이터 사이언티스트를 목표로 공부중입니다.</h3>
 <h3 align='center'> :e-mail:  If you wanna send e-mail to me, <img src="https://img.shields.io/badge/dilatata96@gmail.com-F50057?style=flat-square&logo=?&logoColor=white"/></a>  :e-mail:</p>
