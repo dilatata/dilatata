@@ -15,7 +15,7 @@
 
 
  <details>
-  <summary>:white_heart:Tech Stack:blue_heart:</summary>
+  <summary align='center'>:white_heart:Tech Stack:blue_heart:</summary>
    <p><p align='center'>
  I'm studying <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
